@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779601353628",
+    "project_id": "cito-3125",
+    "storage_bucket": "cito-3125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779601353628:android:8001035a1e89c059fa8659",
+        "android_client_info": {
+          "package_name": "com.cito.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779601353628-cn9hfe2vb72keeg33rqotaeks1ucroho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8ew5kthHDgz4qae82unsOlMqxcEPEZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779601353628-cn9hfe2vb72keeg33rqotaeks1ucroho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
