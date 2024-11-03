@@ -5,3 +5,5 @@ The [`/complete`](./complete) directory is the state that the
 app should be in at the end of the codelab. 
 
 [Firebase Auth with FlutterFire UI]: https://firebase.google.com/codelabs/firebase-auth-in-flutter-apps
+
+![Video Title](https://user-images.githubusercontent.com/spdk3125/flutter_auth/video.mp4)
